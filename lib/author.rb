@@ -1,4 +1,5 @@
 class Author
+  #adding a comment to see if this actually submits correctly
   attr_accessor :name, :posts
   
   @@all_posts_with_authors = []
